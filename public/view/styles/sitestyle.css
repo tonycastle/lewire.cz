@@ -1,0 +1,13 @@
+/* 
+    Document   : sitestyle
+    Created on : 10-Sep-2013, 14:56:15
+    Author     : tony
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+body {
+    display: block;
+    background-color: #000033;
+    color: #FFF;
+}

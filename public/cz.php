@@ -1,0 +1,6 @@
+<?php
+
+array(
+    'test'=>'czechtest'
+);
+?>
